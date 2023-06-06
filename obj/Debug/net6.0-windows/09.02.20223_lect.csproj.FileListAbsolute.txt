@@ -1,0 +1,17 @@
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\bin\Debug\net6.0-windows\09.02.20223_lect.exe
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\bin\Debug\net6.0-windows\09.02.20223_lect.deps.json
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\bin\Debug\net6.0-windows\09.02.20223_lect.runtimeconfig.json
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\bin\Debug\net6.0-windows\09.02.20223_lect.dll
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\bin\Debug\net6.0-windows\09.02.20223_lect.pdb
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.csproj.AssemblyReference.cache
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\_09._02._20223_lect.Form1.resources
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.csproj.GenerateResource.cache
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.AssemblyInfoInputs.cache
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.AssemblyInfo.cs
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.csproj.CoreCompileInputs.cache
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.dll
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\refint\09.02.20223_lect.dll
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.pdb
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\09.02.20223_lect.genruntimeconfig.cache
+C:\Users\balla\source\repos\09.02.20223_lect\09.02.20223_lect\obj\Debug\net6.0-windows\ref\09.02.20223_lect.dll
